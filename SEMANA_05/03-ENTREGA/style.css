@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box
+
+}
+
+#header {
+    padding:50px;
+    background-color: rgb(126, 126, 126);
+    text-align : center;
+    color: white
+}
+
+.row-left, 
+.row-right {
+    padding:50px;
+    height: auto;
+    background-color: rgb(216, 216, 216);
+    border:solid;
+}
+
+.progress-title{
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #000000;
+    font-size: 20px;
+    
+}
+
+.progress-bar {
+    background: #959595;
+    width: 530px;
+    height: 10px;
+    border-radius: 5px;
+}
+
+.progress-bar div{
+    height: 10px;
+    border-radius: 5px;
+    background:red;
+}
+
+.html div{
+    width: 30%;
+}
+
+.css div{
+    width: 20%;
+}
+
+.javascript div{
+    width: 60%;
+}
+
+.python div{
+    width: 50%;
+}
+
+.godot div{
+    width: 80%;
+}
+
+.carisma div{
+    width: 70%;
+}
+.determinacao div{
+    width: 60%;
+}
+.foco div{
+    width: 80%;
+}
+.coragem div{
+    width: 50%;
+}
+
+
+
